@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageRestApiExample</string>
+    <string name="url">https://robohash.org/adeline</string>
+</resources>
